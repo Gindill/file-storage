@@ -1,0 +1,16 @@
+{
+    "name": "gindill/file_storage",
+    "description": "Download service and file storage",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Gindill",
+            "email": "tolsen@inbox.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpunit/phpunit": "5.7.x-dev"
+    }
+}
